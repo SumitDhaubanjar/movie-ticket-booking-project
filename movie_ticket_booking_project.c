@@ -2,6 +2,12 @@
 #include<conio.h>
 #include<stdlib.h>
 #include<string.h>
+struct{
+	char name[64];
+	char email[64];
+	double number;
+	
+}c[];
 
 
 int registor(){
